@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651541504721",
+    "project_id": "authenticationapplicatio-58386",
+    "storage_bucket": "authenticationapplicatio-58386.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651541504721:android:0bbd3644018ae245021bf0",
+        "android_client_info": {
+          "package_name": "com.example.triplens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3VuY67vfRotCDBdEfOdePCcGVVNsDZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
